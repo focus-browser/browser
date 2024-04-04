@@ -5,7 +5,7 @@
   "binaryName": "loon-browser",
   "version": {
     "product": "firefox",
-    "version": "121.0"
+    "version": "124.0.2"
   },
   "buildOptions": {
     "generateBranding": true
