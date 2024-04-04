@@ -1,8 +1,8 @@
 {
-  "name": "Pulse",
-  "vendor": "Fushra",
-  "appId": "com.fushra.browser.desktop",
-  "binaryName": "pulse-browser",
+  "name": "Loon",
+  "vendor": "Ablaze",
+  "appId": "com.ablaze.loon.browser.desktop",
+  "binaryName": "loon-browser",
   "version": {
     "product": "firefox",
     "version": "121.0"

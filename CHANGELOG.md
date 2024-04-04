@@ -177,7 +177,7 @@ Fight with CI.
 - Updated Firefox to `111.0` (#227)
 - Updated uBlock to `1.47.4` (#227)
 - Update BetterFox (#227)
-- Distroid is now `com.fushra.browser.alpha` (#227)
+- Distroid is now `com.ablaze.loon.browser.alpha` (#227)
 
 ## 1.0.0-a.60
 
