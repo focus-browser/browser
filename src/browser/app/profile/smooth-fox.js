@@ -1,5 +1,3 @@
-// Ignore license in this file
-//
 // The code in this file was created by @yokoffing and is licensed under the
 // MIT license:
 // MIT License
